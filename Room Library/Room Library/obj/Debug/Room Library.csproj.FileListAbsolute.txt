@@ -1,0 +1,6 @@
+C:\Users\ilger\source\repos\Room Library\Room Library\bin\Debug\Room Library.dll
+C:\Users\ilger\source\repos\Room Library\Room Library\bin\Debug\Room Library.pdb
+C:\Users\ilger\source\repos\Room Library\Room Library\obj\Debug\Room Library.csproj.AssemblyReference.cache
+C:\Users\ilger\source\repos\Room Library\Room Library\obj\Debug\Room Library.csproj.CoreCompileInputs.cache
+C:\Users\ilger\source\repos\Room Library\Room Library\obj\Debug\Room Library.dll
+C:\Users\ilger\source\repos\Room Library\Room Library\obj\Debug\Room Library.pdb

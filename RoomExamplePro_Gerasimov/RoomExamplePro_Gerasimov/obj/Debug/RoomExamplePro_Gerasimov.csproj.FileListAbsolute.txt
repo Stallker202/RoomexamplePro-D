@@ -1,0 +1,18 @@
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov.csproj.AssemblyReference.cache
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\MainWindow.g.cs
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\App.g.cs
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov_MarkupCompile.cache
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov_MarkupCompile.lref
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\bin\Debug\RoomExamplePro_Gerasimov.exe.config
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\bin\Debug\RoomExamplePro_Gerasimov.exe
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\bin\Debug\RoomExamplePro_Gerasimov.pdb
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\bin\Debug\Room Library.dll
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\bin\Debug\Room Library.pdb
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\MainWindow.baml
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov.g.resources
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov.Properties.Resources.resources
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov.csproj.GenerateResource.cache
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov.csproj.CoreCompileInputs.cache
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov.csproj.CopyComplete
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov.exe
+C:\Users\ilger\source\repos\RoomExamplePro_Gerasimov\RoomExamplePro_Gerasimov\obj\Debug\RoomExamplePro_Gerasimov.pdb
